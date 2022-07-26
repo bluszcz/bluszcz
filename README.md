@@ -22,6 +22,7 @@ Right now:
 - 🌐 [medium.com](https://medium.com/@bluszcz) my more complex writing
 - :heart: fan of C/C++, Rust and Go
 - :movie_camera: Self made cinematographer
+- :man_teacher: Some visual art - my [ArtStation](https://www.artstation.com/bluszcz) profile
 - :seedling: Vegan
 
 
