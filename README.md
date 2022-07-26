@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+In the past:
+
+- Debian Maintainer
+- XMPP Advocate and Public Speaker
+- JabberPL.org owner / admin +15 years
+- Open Source Advocate
+
+Right now:
+
 - 🔭 I’m currently working on Jekyll Templates and Strapi 4 Integration
 - :globe_with_meridians: [Jekyll Strapi 4 plugin](https://github.com/bluszcz/jekyll-strapi)
 - :globe_with_meridians: [Blog article how to use Jekyll with Strapi 4](https://medium.com/@bluszcz/static-site-generator-with-strapi-4-and-jekyll-4c5404cc9715)
