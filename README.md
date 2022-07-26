@@ -2,10 +2,10 @@
 
 In the past:
 
-- Debian Maintainer
-- XMPP Advocate and Public Speaker
-- JabberPL.org owner / admin +15 years
-- Open Source Advocate
+- :penguin: Debian Maintainer
+- :busts_in_silhouette: XMPP Advocate and Public Speaker
+- :trophy: JabberPL.org owner / admin +15 years
+- :man_teacher: Open Source Advocate
 
 Right now:
 
