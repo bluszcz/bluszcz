@@ -9,6 +9,7 @@ In the past:
 
 Right now:
 
+- 🐍🕵️ Python tools making your OpenVPN life easier [OpenVPN Helpers](https://github.com/bluszcz/openvpn-helpers/) 
 - 🔭 Strapi 4 and Jekyl community project maintainer [jekyll-strapi](https://github.com/strapi-community/jekyll-strapi)
 - :man_shrugging: I am developing for personal use [DeerTime](https://github.com/bluszcz/deertime) app (C# + Avalonia) 
 - :globe_with_meridians: [Jekyll Strapi 4 plugin](https://github.com/bluszcz/jekyll-strapi)
